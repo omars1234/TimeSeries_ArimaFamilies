@@ -1,6 +1,6 @@
 # *TimeSeries_ArimaFamilies*
 
-*In This Task we have applied Arima Family Models on Two Different projects and trired to expect the futuer results*
+*In This Task we have applied Arima Family Models on Two Different projects and trired to Predict the futuer results*
 
 1. *Baltimore_Crimes_Analysis*
 
